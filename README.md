@@ -1,1 +1,2 @@
-# my-fisrt-html-css-js-code
+# my-first-html-css-js-code
+This is my first git repository.
